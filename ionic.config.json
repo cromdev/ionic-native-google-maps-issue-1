@@ -1,0 +1,7 @@
+{
+  "name": "ar-map",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
